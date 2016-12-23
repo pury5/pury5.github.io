@@ -307,3 +307,7 @@ h5.title {
     text-transform: uppercase;
     color: #bbb;
 }
+label {
+    font: 18px/18px Arial, sans-serif;
+    color: #fff;
+}

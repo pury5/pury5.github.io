@@ -44,8 +44,8 @@
             <div class="portfolio-item">
                 <a href="projects/whack-a-mole.html"><img src="imgs/portfolio/whak-a-mole.png" alt=""></a>
                 <div class="p-item-footer">
-                    <h4 class="item-title">Title</h4>
-                    <span>Description</span>
+                    <h4 class="item-title">Whack a mole</h4>
+                    <span>The game where you should click on moles</span>
                 </div>
             </div>
             <div class="portfolio-item">
@@ -148,15 +148,17 @@
             <form action="contacts.php" method="post" id="" class="message">
                 <div class="clearfix">
                     <div class="left">
-                        <input type="text" id="posName" placeholder="your Name *">
-                        <input type="email" id="posEmail" placeholder="your E-mail *">
-                        <input type="text" id="posSubj" placeholder="subject *">
+                        <input type="text" name="name" id="posName" placeholder="your Name *">
+                        <input type="email" name="email" id="posEmail" placeholder="your E-mail *">
+                        <input type="text" name="subj" id="posSubj" placeholder="subject *">
+                        <label> What is 2+2 (Anti-Spam)</label>
+                        <input name="human" placeholder='2+2'>
                     </div>
                     <div class="right">
                         <textarea cols="0" rows="0" id="posText" placeholder="Your Message *"></textarea>
                     </div>
                 </div>
-                <button type="submit"  class="btn">Send Message</button>
+                <button type="submit" name="submit" id="submit" class="btn">Send Message</button>
             </form>
         </div>
     </div>
