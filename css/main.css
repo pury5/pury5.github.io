@@ -89,6 +89,11 @@ nav a:hover {
     border-radius: 4px;
 }
 
+.btn > a{
+    font: 24px/24px Arial, bold, sans-serif;
+    color: #ffffff;
+}
+
 .btn:hover {
     background: #e86a0c;
 }
@@ -262,12 +267,6 @@ h5.title {
     background-position:-40px -40px ;
 }
 
-#feedback {
-    text-align: center;
-    background: #222 url("../imgs/feedback/bg-map.png") no-repeat right bottom;
-}
-
-#feedback h2.title {color: #fff;}
 
 .message .left, .message .right {
     width: 48%;

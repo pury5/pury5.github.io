@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b44c0da1-161c-459e-9dd6-38b3c2ddcf75" name="Default" comment="added projects&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgs/portfolio/drums.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgs/portfolio/flex.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/drums/sounds/boom.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/drums/sounds/clap.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/drums/sounds/hihat.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/drums/sounds/kick.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/drums/sounds/openhat.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/drums/sounds/ride.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/drums/sounds/snare.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/drums/sounds/tink.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/drums/sounds/tom.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/drums/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/drums/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/flex/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/dirt.svg" afterPath="$PROJECT_DIR$/projects/mole/dirt.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/mole.svg" afterPath="$PROJECT_DIR$/projects/mole/mole.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/style.css" afterPath="$PROJECT_DIR$/projects/mole/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/whack-a-mole.html" afterPath="$PROJECT_DIR$/projects/mole/whack-a-mole.html" />
     </list>
     <ignored path="Praca Dyplomowa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="45" column="72" selection-start-line="45" selection-start-column="72" selection-end-line="45" selection-end-column="72" />
+            <state relative-caret-position="-1216">
+              <caret line="36" column="125" selection-start-line="36" selection-start-column="125" selection-end-line="36" selection-end-column="125" />
               <folding />
             </state>
           </provider>
@@ -78,8 +60,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="329" column="23" selection-start-line="329" selection-start-column="23" selection-end-line="329" selection-end-column="23" />
+            <state relative-caret-position="379">
+              <caret line="87" column="28" selection-start-line="87" selection-start-column="28" selection-end-line="87" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -116,9 +98,9 @@
         <option value="$PROJECT_DIR$/contacts.php" />
         <option value="$PROJECT_DIR$/../tests/1.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="E:/Books/Studying/30 Days - 30 Projects/JavaScript30-master/JavaScript30-master/05 - Flex Panel Gallery/index-FINISHED.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -242,6 +224,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="imgs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PracaDyplomowa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PracaDyplomowa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,7 +368,7 @@
       <workItem from="1482680786679" duration="603000" />
       <workItem from="1482715862326" duration="124000" />
       <workItem from="1482716641422" duration="14000" />
-      <workItem from="1482942523345" duration="11227000" />
+      <workItem from="1482942523345" duration="13618000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1482247126813</created>
@@ -444,11 +440,18 @@
       <option name="project" value="LOCAL" />
       <updated>1482994234624</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added projects&#10;">
+      <created>1483002491737</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1483002491737</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108227000" />
+    <option name="totallyTimeSpent" value="110618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -456,7 +459,7 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.143125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32860824" sideWeight="0.50250626" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32860824" sideWeight="0.50250626" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49749374" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -616,14 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="329" column="23" selection-start-line="329" selection-start-column="23" selection-end-line="329" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/Books/Studying/30 Days - 30 Projects/JavaScript30-master/JavaScript30-master/05 - Flex Panel Gallery/index-FINISHED.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
@@ -632,10 +627,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="87" column="28" selection-start-line="87" selection-start-column="28" selection-end-line="87" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="45" column="72" selection-start-line="45" selection-start-column="72" selection-end-line="45" selection-end-column="72" />
+        <state relative-caret-position="-1216">
+          <caret line="36" column="125" selection-start-line="36" selection-start-column="125" selection-end-line="36" selection-end-column="125" />
           <folding />
         </state>
       </provider>
