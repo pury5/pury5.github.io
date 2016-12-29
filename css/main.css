@@ -314,17 +314,20 @@ label {
 
 
 #scrollup {
-    position: fixed; /* фиксированная позиция */
-    opacity: 0.8; /* прозрачность */
-    padding: 15px 10px 10px; /* отступы */
+    position: fixed;
+    opacity: 0.8; /
+    padding: 15px 10px 10px;
     background: #aaa;
-    border-radius: 5px; /* скругление углов */
+    border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-    left: 10px; /* отступ слева */
-    top: 5%; /* отступ снизу */
-    display: none; /* спрятать блок */
+    left: 10px;
+    top: 5%;
+    display: none;
     cursor: pointer;
+}
+#scrollup:hover {
+    background: #D1E2E8;
 }
 #scrollup img {
     width: 30px;
